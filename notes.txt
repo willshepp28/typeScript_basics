@@ -1,1 +1,8 @@
 tsc <filename> - to compile typescript
+
+tsc <filename> -w    - for compiler to watch changes
+
+
+
+
+- With functions we can add a type to the parameter and the return type.
